@@ -1,0 +1,18 @@
+{
+  "getAllStudentCode": [
+    "T2B3",
+    "W3EB",
+    "3M0I",
+    "R8F8",
+    "U8F7"
+  ],
+  "getAllClockedInStudent": [
+    {
+      "id": 1,
+      "fullName": "Amaechina Tochukwu",
+      "lga": "Ikorodu",
+      "code": "A8A5",
+      "timeIn": "12:35"
+    }
+  ]
+}
